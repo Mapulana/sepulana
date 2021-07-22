@@ -1,4 +1,4 @@
 # Ke Tsona Mfo 
 ## Tla re boneng shem barena!
 
-Bana ba :lion: le :leopard:.
+> Bana ba :lion: le :leopard:.
